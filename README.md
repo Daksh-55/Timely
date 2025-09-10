@@ -1,16 +1,26 @@
-# date_reminder
+# Timly 📆⏰
 
-A new Flutter project.
+**Timly** is a simple and elegant reminder app built with **Flutter** that helps you remember your most important dates. Get notified **1 week before**, **1 day before**, and **on the day** of each event. Whether it’s birthdays, anniversaries, or deadlines — Timly keeps you ahead.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📅 Add and manage events easily
+- 🔔 Smart notifications:
+  - 7 days before the event
+  - 1 day before the event
+  - On the day of the event
+- 🧠 Local storage using Hive (fast, lightweight, and offline-friendly)
+- 📱 Clean and modern UI
+- 🔒 Privacy-first: all data stays on your device
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Tech Stack
+
+| Tech         | Description                                  |
+|--------------|----------------------------------------------|
+| **Flutter**  | Cross-platform UI toolkit                    |
+| **Hive**     | Lightweight & blazing fast local NoSQL DB    |
+| **Flutter Local Notifications** | For scheduling reminders     |
